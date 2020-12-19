@@ -1,0 +1,7 @@
+E:\Faculty\سنة تالتة\C#\observer\observer\bin\Debug\observer.exe.config
+E:\Faculty\سنة تالتة\C#\observer\observer\bin\Debug\observer.exe
+E:\Faculty\سنة تالتة\C#\observer\observer\bin\Debug\observer.pdb
+E:\Faculty\سنة تالتة\C#\observer\observer\obj\Debug\observer.csprojAssemblyReference.cache
+E:\Faculty\سنة تالتة\C#\observer\observer\obj\Debug\observer.csproj.CoreCompileInputs.cache
+E:\Faculty\سنة تالتة\C#\observer\observer\obj\Debug\observer.exe
+E:\Faculty\سنة تالتة\C#\observer\observer\obj\Debug\observer.pdb

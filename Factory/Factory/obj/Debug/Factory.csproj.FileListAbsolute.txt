@@ -1,0 +1,14 @@
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\bin\Debug\Factory.exe.config
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\bin\Debug\Factory.exe
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\bin\Debug\Factory.pdb
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\obj\Debug\Factory.exe
+F:\faculty\Third - 1th\Sections\Tasks\Development Software\Factory\Factory\obj\Debug\Factory.pdb
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\bin\Debug\Factory.exe.config
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\bin\Debug\Factory.exe
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\bin\Debug\Factory.pdb
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\obj\Debug\Factory.exe
+E:\Faculty\سنة تالتة\C#\Tasks\Factory\Factory\obj\Debug\Factory.pdb

@@ -1,0 +1,7 @@
+F:\applying\c#\DesignPattern\Music\Music\bin\Debug\Music.exe.config
+F:\applying\c#\DesignPattern\Music\Music\bin\Debug\Music.exe
+F:\applying\c#\DesignPattern\Music\Music\bin\Debug\Music.pdb
+F:\applying\c#\DesignPattern\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+F:\applying\c#\DesignPattern\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+F:\applying\c#\DesignPattern\Music\Music\obj\Debug\Music.exe
+F:\applying\c#\DesignPattern\Music\Music\obj\Debug\Music.pdb

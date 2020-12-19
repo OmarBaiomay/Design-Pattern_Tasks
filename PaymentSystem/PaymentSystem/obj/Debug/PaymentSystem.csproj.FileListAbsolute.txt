@@ -1,0 +1,6 @@
+F:\applying\c#\DesignPattern\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csprojAssemblyReference.cache
+F:\applying\c#\DesignPattern\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe.config
+F:\applying\c#\DesignPattern\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe
+F:\applying\c#\DesignPattern\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.pdb
+F:\applying\c#\DesignPattern\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.exe
+F:\applying\c#\DesignPattern\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb

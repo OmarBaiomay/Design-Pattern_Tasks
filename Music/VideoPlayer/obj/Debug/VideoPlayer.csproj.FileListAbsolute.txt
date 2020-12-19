@@ -1,0 +1,7 @@
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\bin\Debug\Music.exe.config
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\bin\Debug\Music.exe
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\bin\Debug\Music.pdb
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\obj\Debug\Music.exe
+E:\Faculty\سنة تالتة\C#\Tasks\Music\Music\obj\Debug\Music.pdb
